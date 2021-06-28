@@ -4,11 +4,17 @@
 ### 가게에 방문하는 인원 명부 기록
 0. 메뉴에서 원하는 기능 선택
  - 만약 잘못된 메뉴를 선택할 시 다음과 같이 출력
-
+  <img width="598" alt="0 잘못된 메뉴 선택" src="https://user-images.githubusercontent.com/70666097/123665202-03b58b00-d873-11eb-95cd-e0945ffd06c2.png">
+  
 1. 기록 추가(Create)
+<img width="598" alt="1  기록 추가(1)" src="https://user-images.githubusercontent.com/70666097/123665214-0a440280-d873-11eb-8d04-8fbc1931c6bd.png">
+<img width="598" alt="1  기록 추가(2)" src="https://user-images.githubusercontent.com/70666097/123665228-0ca65c80-d873-11eb-836c-72611f48e0db.png">
 
 2. 기록 조회
+<img width="598" alt="2  기록 조회" src="https://user-images.githubusercontent.com/70666097/123665239-0e702000-d873-11eb-805f-4e3c27d4975f.png">
 
 3. 기록 수정
+<img width="598" alt="3  기록 수정" src="https://user-images.githubusercontent.com/70666097/123665243-1039e380-d873-11eb-9243-85e42b2602e2.png">
 
 4. 기록 삭제
+<img width="598" alt="4  기록 삭제" src="https://user-images.githubusercontent.com/70666097/123665261-14660100-d873-11eb-825a-a43bc65b8ebf.png">
