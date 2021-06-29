@@ -32,4 +32,5 @@
 <img width="609" alt="스크린샷 2021-06-29 오후 6 06 50" src="https://user-images.githubusercontent.com/70666097/123770103-f47f1d80-d904-11eb-962f-356d1dc6f772.png">
 
 -data.txt 변경 사항 적용
+
 <img width="609" alt="스크린샷 2021-06-29 오후 6 07 35" src="https://user-images.githubusercontent.com/70666097/123770113-f5b04a80-d904-11eb-8d57-1626d52a062e.png">
