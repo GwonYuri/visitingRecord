@@ -7,10 +7,6 @@ public class Person {
     private double temperature;
     private String agreement;
 
-    public Person() {
-
-    }
-
     public Person(int num, String vit_Date, String name, String region, String phone_num, double temperature, String agreement){
         this.num=num;
         this.vit_Date=vit_Date;
@@ -24,7 +20,7 @@ public class Person {
     @Override
     public String toString(){
         return this.num + ". " + this.vit_Date + " "  + this.name + " " + this.region + " "
-                + this.phone_num + " "  + this.temperature + "       "  +this.agreement ;
+                + this.phone_num + "   "  + this.temperature + "        "  +this.agreement ;
     }
 
     public int getNum() {
