@@ -20,7 +20,7 @@ public class Crud {
         double temperature;
         String agreement;
 
-        num = list.size();
+        num = list.size() +1;
 
         System.out.println("이름 입력");
         br = new BufferedReader(new InputStreamReader(System.in));
@@ -66,7 +66,7 @@ public class Crud {
         try {
             System.out.println("수정할 번호 입력");
             br = new BufferedReader(new InputStreamReader(System.in));
-            int num = Integer.parseInt(br.readLine()) -1 ;
+            int num = Integer.parseInt(br.readLine()) -1;
             if (RecordMain.valid(list, num)) {
                 System.out.println("이름 입력");
                 list.get(num).setName(br.readLine());
@@ -99,7 +99,7 @@ public class Crud {
             if (RecordMain.valid(list, num)) {
                 list.remove(num);
                 for (int i = 0; i < list.size(); i++)
-                    list.get(i).setNum(i);
+                    list.get(i).setNum(i+1);
             } else {
                 deleteData(list);
             }
